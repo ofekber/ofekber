@@ -2,16 +2,9 @@
 <!-- Profile README for github.com/ofekber -->
 
 <h1 align="left">Hi, I’m Ofek 👋</h1>
-<p align="center">
+<p align="left">
   B.Sc. Information Systems Engineering @technion - Israel Institute of Technology • Data Science / ML • AI-driven systems
 </p>
-
----
-
-## About me
-
-I’m a B.Sc. student in Information Systems Engineering at the Technion, focused on building practical data products and ML-driven systems.
-I like projects that combine **clean engineering**, **data analysis**, and **model-driven decision making**.
 
 ---
 
