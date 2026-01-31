@@ -3,13 +3,7 @@
 
 <h1 align="center">Hi, I’m Ofek 👋</h1>
 <p align="center">
-  B.Sc. Information Systems Engineering @technion • Data Science / ML • AI-driven systems
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ofekbernstein/">LinkedIn</a>
-  •
-  <a href="mailto:bofek@campus.technion.ac.il">Email</a>
+  B.Sc. Information Systems Engineering @technion - Israel Institute of Technology • Data Science / ML • AI-driven systems
 </p>
 
 ---
@@ -23,29 +17,29 @@ I like projects that combine **clean engineering**, **data analysis**, and **mod
 
 ## Featured projects
 
-* **SeatHarmony** — AI-powered seating planner (multi-agent / LLM-driven simulation).
+* **SeatHarmony** - AI-powered seating planner (multi-agent / LLM-driven simulation).</br>
   Repo: [https://github.com/Wieder-Shahaf/SeatHarmony](https://github.com/Wieder-Shahaf/SeatHarmony)
 
-* **Data Analysis Project** — EDA + modeling on real datasets (Jupyter).
+* **Data Analysis With Python** - Conducted exploratory data analysis and visualizations using Python libraries, deriving actionable insights from complex datasets.</br>
   Repo: [https://github.com/ofekber/Data-Analysis-Project](https://github.com/ofekber/Data-Analysis-Project)
 
-* **Database Management Project** — SQL + Django web app (data modeling + CRUD).
+* **Database Management Project** - Designed and managed relational databases for web applications, focusing on data modeling and dynamic content integration with SQL and Django.</br>
   Repo: [https://github.com/ofekber/Database-Management-Project](https://github.com/ofekber/Database-Management-Project)
 
-* **Data Structures & Algorithms** — implementations and problem solving (Java).
+* **Data Structures & Algorithms** - Implemented and optimized data structures and algorithms to solve computational challenges, improving processing efficiency.</br>
   Repo: [https://github.com/ofekber/Data-Structures-and-Algorithms-Projects](https://github.com/ofekber/Data-Structures-and-Algorithms-Projects)
 
-* **Artificial Intelligence** — core AI techniques and implementations.
+* **Artificial Intelligence** - Implementations of core AI techniques including deterministic and heuristic search, logical inference, stochastic environments, and Markov Decision Processes (MDPs), with emphasis on practical reasoning and model evaluation. </br>
   Repo: [https://github.com/ofekber/Artificial-Intelligence](https://github.com/ofekber/Artificial-Intelligence)
 
 ---
 
 ## Skills
 
-**Languages:** Python, SQL, Java
-**Data/ML:** pandas, NumPy, scikit-learn, Jupyter
-**Web/Backend:** Django
-**Other:** Git/GitHub, data modeling, experimentation
+**Languages:** Python, SQL, Java </br>
+**Data/ML:** pandas, NumPy, scikit-learn, Jupyter </br>
+**Web/Backend:** Django </br>
+**Other:** Git/GitHub, data modeling, experimentation </br>
 
 ---
 
@@ -59,4 +53,3 @@ I like projects that combine **clean engineering**, **data analysis**, and **mod
 ## Contact
 
 * LinkedIn: [https://www.linkedin.com/in/ofekbernstein/](https://www.linkedin.com/in/ofekbernstein/)
-* Email: [bofek@campus.technion.ac.il](mailto:bofek@campus.technion.ac.il)
