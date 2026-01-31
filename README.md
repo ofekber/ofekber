@@ -1,7 +1,7 @@
 # Ofek-Bernstein
 <!-- Profile README for github.com/ofekber -->
 
-<h1 align="center">Hi, I’m Ofek 👋</h1>
+<h1 align="left">Hi, I’m Ofek 👋</h1>
 <p align="center">
   B.Sc. Information Systems Engineering @technion - Israel Institute of Technology • Data Science / ML • AI-driven systems
 </p>
