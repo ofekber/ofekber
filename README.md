@@ -17,20 +17,23 @@ I like projects that combine **clean engineering**, **data analysis**, and **mod
 
 ## Featured projects
 
-* **SeatHarmony** - AI-powered seating planner (multi-agent / LLM-driven simulation).</br>
-  Repo: [https://github.com/Wieder-Shahaf/SeatHarmony](https://github.com/Wieder-Shahaf/SeatHarmony)
+* **[SeatHarmony](https://github.com/Wieder-Shahaf/SeatHarmony)** </br>
+AI-powered seating planner (multi-agent / LLM-driven simulation).</br>
 
 * **Data Analysis With Python** - Conducted exploratory data analysis and visualizations using Python libraries, deriving actionable insights from complex datasets.</br>
   Repo: [https://github.com/ofekber/Data-Analysis-Project](https://github.com/ofekber/Data-Analysis-Project)
 
-* **Database Management Project** - Designed and managed relational databases for web applications, focusing on data modeling and dynamic content integration with SQL and Django.</br>
-  Repo: [https://github.com/ofekber/Database-Management-Project](https://github.com/ofekber/Database-Management-Project)
+* **[Database Management Project](https://github.com/ofekber/Database-Management-Project)** </br>
+Designed and managed relational databases for web applications, focusing on data modeling and dynamic content integration with SQL and Django.</br>
 
-* **Data Structures & Algorithms** - Implemented and optimized data structures and algorithms to solve computational challenges, improving processing efficiency.</br>
-  Repo: [https://github.com/ofekber/Data-Structures-and-Algorithms-Projects](https://github.com/ofekber/Data-Structures-and-Algorithms-Projects)
+* **[Data Structures & Algorithms](https://github.com/ofekber/Data-Structures-and-Algorithms-Projects)** </br> 
+Implemented and optimized data structures and algorithms to solve computational challenges, improving processing efficiency.</br>
 
-* **Artificial Intelligence** - Implementations of core AI techniques including deterministic and heuristic search, logical inference, stochastic environments, and Markov Decision Processes (MDPs), with emphasis on practical reasoning and model evaluation. </br>
-  Repo: [https://github.com/ofekber/Artificial-Intelligence](https://github.com/ofekber/Artificial-Intelligence)
+* **[Artificial Intelligence](https://github.com/ofekber/Artificial-Intelligence)** </br>
+Implementations of core AI techniques including deterministic and heuristic search, logical inference, stochastic environments, and Markov Decision Processes (MDPs), with emphasis on practical reasoning and model evaluation.
+
+* **[Deep Learning & Advanced ML](https://github.com/ofekber/Machine-Learning-2)**  </br>
+This repository covers deep learning concepts such as Convolutional Neural Networks, Generative Adversarial Networks, Recurrent Neural Networks, Adversarial Attacks, and Contrastive Learning. Each exercise demonstrates practical implementation, optimization techniques, and model evaluation strategies. 
 
 ---
 
@@ -40,13 +43,6 @@ I like projects that combine **clean engineering**, **data analysis**, and **mod
 **Data/ML:** pandas, NumPy, scikit-learn, Jupyter </br>
 **Web/Backend:** Django </br>
 **Other:** Git/GitHub, data modeling, experimentation </br>
-
----
-
-## What I’m looking for
-
-* Internships / research opportunities in **data science**, **ML**, and **applied AI**
-* Projects where I can own an analysis end-to-end: **problem → data → model → results → product**
 
 ---
 
