@@ -43,5 +43,6 @@ Java Object Oriented Programming assignments implementing a modular game system 
 ---
 
 ## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ofek%20Bernstein-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofekbernstein/)
 
-* LinkedIn: [https://www.linkedin.com/in/ofekbernstein/](https://www.linkedin.com/in/ofekbernstein/)
+
